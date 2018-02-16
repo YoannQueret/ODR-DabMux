@@ -108,7 +108,7 @@ frequency_information {
         fi_dab_1 {
             range_modulation dab
             continuity true
-            eid 0x4fff
+            eid 0x4ffe
             frequencies {
                 entry_a {
                     signal_mode_1 true
